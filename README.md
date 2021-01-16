@@ -1,1 +1,1 @@
-# Script-to-find-files-folders-not-owned-by-a-specific-user-group
+# Script-to-find-files & folders-not-owned-by-a-specific-user-group
